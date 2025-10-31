@@ -1,6 +1,6 @@
 ## Hi there 👋
-## Mi nombre es Yember Palma - Ingeneiro en Sistemas | Desarrollador Backend en formacion
-** Cuento con una solida base de desarrollo de software y un enfoque en la arquitectura backend ** Actualmente profundizando conocimientos a nivel avanzado a traves de un **Master en Desarrollo de Software con IA**, con experiencia practica en la automatizacion y el desarrollo de sistemas con Java y Python.
+# Mi nombre es Yember Palma - Ingeneiro en Sistemas | Desarrollador Backend en formacion
+**Cuento con una solida base de desarrollo de software y un enfoque en la arquitectura backend** Actualmente profundizando conocimientos a nivel avanzado a traves de un **Master en Desarrollo de Software con IA**, con experiencia practica en la automatizacion y el desarrollo de sistemas con Java y Python.
 
 ---
 
