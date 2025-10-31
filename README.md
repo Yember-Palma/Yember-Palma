@@ -17,6 +17,14 @@ Aprovecha las herramientas visuales (shields.io) para esto:
 
 ---
 
+
+## Proyectos Destacados
+1. **    ** - *Un proyecto de backend completo demostrando modelado de BD y seguridad.*
+2. **    ** - *Script de Python que procesa grandes archivos usando Pandas y genera reportes.*
+3. **    ** - *Colección de scripts Bash para tareas comunes de SysAdmin/DevOps.*
+
+---
+
 <!--
 **Yember-Palma/Yember-Palma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
